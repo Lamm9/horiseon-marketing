@@ -51,9 +51,9 @@ p {
 }
 
 .hero {
-    max-width: 99%;
-    max-height: 99%;
-    margin-bottom: 25px;
+    width: 100%;
+    height: auto;
+    margin-top: 25px;
     position: center;
 }
 
